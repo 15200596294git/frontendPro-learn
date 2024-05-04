@@ -9,11 +9,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@headlessui/vue": "^1.7.21",
+    "@unocss/reset": "^0.59.4",
+    "validator": "^13.11.0",
     "vue": "^3.4.21"
   },
   "devDependencies": {
+    "@iconify-json/icomoon-free": "^1.1.8",
+    "@unocss/preset-icons": "^0.59.4",
     "@vitejs/plugin-vue": "^5.0.4",
     "typescript": "^5.2.2",
+    "unocss": "^0.59.4",
     "vite": "^5.2.0",
     "vue-tsc": "^2.0.6"
   }
