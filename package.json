@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@headlessui/vue": "^1.7.21",
+    "@iconify-json/fontisto": "^1.1.8",
     "@unocss/reset": "^0.59.4",
     "validator": "^13.11.0",
     "vue": "^3.4.21"
