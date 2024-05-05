@@ -17,6 +17,7 @@
   },
   "devDependencies": {
     "@iconify-json/icomoon-free": "^1.1.8",
+    "@types/validator": "^13.11.9",
     "@unocss/preset-icons": "^0.59.4",
     "@vitejs/plugin-vue": "^5.0.4",
     "typescript": "^5.2.2",

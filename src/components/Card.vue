@@ -43,7 +43,7 @@ const subscript = () => {
                 </div>
                 <div mt-12px flex flex-wrap items-start justify-center gap-16px>
                     <input :checked="isCheck" @change="isCheck = !isCheck" w-20px h-20px rounded-6px m-0 mt-4px
-                        cursor-pointer type="checkbox" id="news">
+                        cursor-pointer type="checkbox" id="news" check-none>
                     <label for="news" class="text-#111827 leading-[1.5]" flex-basis-778px text-14px cursor-pointer>
                         By checking this box, you agree to receive our weekly newsletter containing coding challenges,
                         tips, and other related content. You may unsubscribe from the newsletter at any time
