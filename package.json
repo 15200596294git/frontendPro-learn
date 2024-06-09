@@ -13,7 +13,8 @@
     "@iconify-json/fontisto": "^1.1.8",
     "@unocss/reset": "^0.59.4",
     "validator": "^13.11.0",
-    "vue": "^3.4.21"
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.2"
   },
   "devDependencies": {
     "@iconify-json/icomoon-free": "^1.1.8",
